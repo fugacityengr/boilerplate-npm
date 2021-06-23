@@ -1,16 +1,20 @@
 {
-	"name": "fcc-learn-npm-package-json",
+  "name": "fcc-learn-npm-package-json",
   "author": "fugacityengr",
   "description": "'Managing Packages with NPM Exercises' on fcc",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "keywords": [
+    "freecodecamp",
+    "learning"
+  ],
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
